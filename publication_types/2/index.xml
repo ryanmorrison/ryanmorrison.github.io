@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Ryan Morrison, PhD, PE</title>
+    <link>https://ryanmorrison.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Ryan Morrison, PhD, PE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://ryanmorrison.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing the hydrogeomorphic effects of environmental flows using hydrodynamic modeling</title>
+      <link>https://ryanmorrison.github.io/publication/chama_eflows/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://ryanmorrison.github.io/publication/chama_eflows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrologic scaling for hydrogeomorphic floodplain mapping: insights into human-induced floodplain disconnectivity</title>
+      <link>https://ryanmorrison.github.io/publication/hydrogeomorphic_floodplain_model/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://ryanmorrison.github.io/publication/hydrogeomorphic_floodplain_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial relationships of levees and wetland systems within floodplains of the Wabash Basin, USA</title>
+      <link>https://ryanmorrison.github.io/publication/levees_wetlands/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://ryanmorrison.github.io/publication/levees_wetlands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the impacts of hydrologic alteration on ﬂoodplain connectivity</title>
+      <link>https://ryanmorrison.github.io/publication/ecohydrology_floodplains/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://ryanmorrison.github.io/publication/ecohydrology_floodplains/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
