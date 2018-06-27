@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Ryan Morrison, PhD, PE</title>
-    <link>https://ryanmorrison.github.io/news/</link>
+    <link>http://www.ryanmorrison.org/news/</link>
     <description>Recent content in News on Ryan Morrison, PhD, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://ryanmorrison.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ryanmorrison.org/news/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ryan Morrison, PhD, PE</title>
-    <link>https://ryanmorrison.github.io/post/</link>
+    <link>http://www.ryanmorrison.org/post/</link>
     <description>Recent content in Posts on Ryan Morrison, PhD, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://ryanmorrison.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ryanmorrison.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Italian Collaborator at CSU</title>
-      <link>https://ryanmorrison.github.io/post/062708_antonio/</link>
+      <link>http://www.ryanmorrison.org/post/062708_antonio/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://ryanmorrison.github.io/post/062708_antonio/</guid>
+      <guid>http://www.ryanmorrison.org/post/062708_antonio/</guid>
       <description>Antonio Annis, a longtime collaborator from the University for Foreigners of Perugia, visited CSU to present our research at the 9th International Congress on Environmental Modelling and Software. It was a pleasure to meet Antonio after 2.5 years of collaboration!</description>
     </item>
     
     <item>
       <title>Kara Scheel Graduates!</title>
-      <link>https://ryanmorrison.github.io/post/050118_kara/</link>
+      <link>http://www.ryanmorrison.org/post/050118_kara/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://ryanmorrison.github.io/post/050118_kara/</guid>
+      <guid>http://www.ryanmorrison.org/post/050118_kara/</guid>
       <description>Congrats to Kara Scheel for successfully passing her M.S. defense and graduating in May, 2018! Kara&amp;rsquo;s thesis was titled, &amp;ldquo;Toward Understanding Changes in Large-Scale Floodplain Connectivity Caused by Levees&amp;rdquo;, and is currently in review with the Journal of American Water Resources Association.</description>
     </item>
     
