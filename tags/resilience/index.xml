@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resilience on Ryan Morrison, PhD, PE</title>
+    <link>http://www.ryanmorrison.org/tags/resilience/</link>
+    <description>Recent content in Resilience on Ryan Morrison, PhD, PE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="http://www.ryanmorrison.org/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3rd Annual UNM Resilience Colloquium</title>
+      <link>http://www.ryanmorrison.org/post/081118_unm/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 -0600</pubDate>
+      
+      <guid>http://www.ryanmorrison.org/post/081118_unm/</guid>
+      <description>It was a pleasure giving an invited talk at the 3rd Annual UNM Resilience Colloquium. The colloquium was filled with interesting discussions of managing human and natural systems for resilience. I was able to meet up with my PhD advisor, Mark Stone, and eat too many green chiles! Thank you, Dr. Stone and Dr. Taha, for the invitation.
+P.S. My department colleague, Hussam Mahmoud, gave an awesome keynote talk.</description>
+    </item>
+    
+  </channel>
+</rss>

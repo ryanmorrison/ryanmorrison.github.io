@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://www.ryanmorrison.org/post/081118_unm/</loc>
+      <lastmod>2018-08-11T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.ryanmorrison.org/post/062718_antonio/</loc>
       <lastmod>2018-06-27T00:00:00-06:00</lastmod>
     </url>
@@ -133,6 +142,16 @@
     
     <url>
     
+      <loc>http://www.ryanmorrison.org/tags/conference/</loc>
+      <lastmod>2018-08-11T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.ryanmorrison.org/tags/italy/</loc>
       <lastmod>2018-06-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -155,6 +174,16 @@
     
       <loc>http://www.ryanmorrison.org/publication_types/</loc>
       <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.ryanmorrison.org/tags/resilience/</loc>
+      <lastmod>2018-08-11T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
